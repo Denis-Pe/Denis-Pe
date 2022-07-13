@@ -34,7 +34,6 @@ Miscellanious, no particular order:
 - Hexadecimal
 - Digital Circuits
 - Raspberry Pi
-- Markdown, as it may be evident
 - Data formats: json & toml
 - Git, GitKraken, GitHub, as it may be evident
 
